@@ -1,0 +1,17 @@
+# SublimeText project files
+*.sublime-workspace
+.DS_Store
+node_modules
+npm-debug.log
+bundles
+.history
+.vscode
+output
+logs
+package-lock.json
+yarn-error.log
+logs-*.log
+temp
+.DS_STORE
+.idea
+.yarn
